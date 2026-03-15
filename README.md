@@ -1,3 +1,23 @@
 # ENDE-UD04-A2
-En este rrepositorio se realizara la actividad pedida en ENDES
-En esta tarea realizaremos diferentes repositorios y clonaremos un repositorio remoto con un archivo figuras.zip en java con el cual realizaremos cambios, moostraremos los cambios en el historial y se realizaran refactorizaciones y un commit al igual que un push y la modificacion de las ramas
+
+Repositorio de la práctica de Entornos de Desarrollo sobre el uso de Git y GitHub.
+
+## Contenido
+
+Este repositorio contiene el proyecto Java **Figuras**, utilizado para practicar:
+
+- Control de versiones con Git
+- Gestión de repositorios remotos
+- Uso de ramas
+- Trabajo colaborativo
+
+## Estructura
+
+- Clases Java del proyecto Figuras
+- Historial de commits
+- Ramas master y develop
+
+## Autor
+
+Nombre del alumno  
+Asignatura: Entornos de Desarrollo
