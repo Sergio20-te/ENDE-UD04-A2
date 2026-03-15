@@ -16,8 +16,3 @@ Este repositorio contiene el proyecto Java **Figuras**, utilizado para practicar
 - Clases Java del proyecto Figuras
 - Historial de commits
 - Ramas master y develop
-
-## Autor
-
-Nombre del alumno  
-Asignatura: Entornos de Desarrollo
